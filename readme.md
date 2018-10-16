@@ -35,3 +35,8 @@ Adds an utterance to the utterance queue; it will be spoken when any other utter
 
 ## Screens
 
+Speech availability is device dependant e.g.(Chrome, Firefox, Safari...)
+
+![Chrome Version](https://github.com/xboudsady/text-to-speak/blob/master/img/chrome-version.JPG)
+
+![Firefox Device](https://github.com/xboudsady/text-to-speak/blob/master/img/firefox-version.JPG)
