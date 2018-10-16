@@ -37,6 +37,12 @@ Adds an utterance to the utterance queue; it will be spoken when any other utter
 
 Speech availability is device dependant e.g.(Chrome, Firefox, Safari...)
 
+## Chrome
 ![Chrome Version](https://github.com/xboudsady/text-to-speak/blob/master/img/chrome-version.JPG)
 
+## Firefox
 ![Firefox Device](https://github.com/xboudsady/text-to-speak/blob/master/img/firefox-version.JPG)
+
+# iPhone
+
+![iPhone Device](https://github.com/xboudsady/text-to-speak/blob/master/img/IMG_8859.PNG)
