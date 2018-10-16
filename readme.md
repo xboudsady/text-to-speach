@@ -3,7 +3,7 @@
 Text Synthesis application, using the [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 
 # Demo Site 
-[example]()
+[https://xb-text-to-speak.herokuapp.com/index.html](https://xb-text-to-speak.herokuapp.com/index.html)
 
 ## Technology Stack
 *  Front-End Component Libray - [Bootstrap](https://getbootstrap.com/)
